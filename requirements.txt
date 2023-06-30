@@ -3,7 +3,7 @@ pandas==1.4.4
 streamlit
 matplotlib==3.6.2
 seaborn==0.12.1
-nltk==3.7
+nltk==3.8.1
 scikit-learn
 pip==23.0.1
 joblib==1.2.0
