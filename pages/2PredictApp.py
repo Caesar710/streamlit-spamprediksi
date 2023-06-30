@@ -10,6 +10,7 @@ import base64
 from nltk.stem.snowball import PorterStemmer
 
 nltk.download('punkt')
+nltk.download('stopwords')
 ps = PorterStemmer()
 
 # Input model dan vektorizer tfidf yang sudah disave
