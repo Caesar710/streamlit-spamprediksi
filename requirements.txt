@@ -1,7 +1,7 @@
 numpy==1.23.5
 pandas==1.4.4
 streamlit
-pickle
+pickle==4.0
 matplotlib==3.6.2
 seaborn==0.12.1
 nltk==3.7
